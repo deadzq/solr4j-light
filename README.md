@@ -1,3 +1,3 @@
 # solr4j-light
 
-solr4j高亮
+solr4j高亮关键字
